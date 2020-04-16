@@ -11,10 +11,10 @@ Pod::Spec.new do |s|
                     Handle the data.
                    DESC
 
-  s.homepage     = "http://csdn.net/veryitman"
+  s.homepage     = "https://weexplus.github.io/doc/quickstart/"
   s.license      = "MIT"
-  s.author             = { "veryitman" => "veryitman@126.com" }
-  s.source =  { :path => '.' }
+  s.author             = { "zjr" => "362675035@qq.com" }
+  s.source =   = { :git => "https://github.com/farwolf2010/farwolf.business.git", :tag => "1.0.1" }
   s.source_files  = "Source", "farwolf.business/**/*.{h,m,mm,c}"
   s.resources = 'farwolf.business/resources/storyboard/**','farwolf.business/resources/image/**','farwolf.business/resources/xib/**'
  
