@@ -22,6 +22,5 @@ Pod::Spec.new do |s|
 
   s.exclude_files = "Source/Exclude"
   s.dependency 'farwolf'
-  # s.dependency 'farwolf', :git => 'https://github.com/farwolf2010/farwolf', :tag => '1.0.0'
   s.platform     = :ios, "8.0"
 end
