@@ -8,7 +8,7 @@
 #import "ZipDownloaderControl.h"
 #import "farwolf.h"
 #import "ZipDownloader.h"
-#import "URL.h"
+ 
 #import "UpdateChecker.h"
 
 @interface ZipDownloaderControl ()

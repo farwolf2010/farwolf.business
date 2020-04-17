@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 #import "Version.h"
-#import "JsVersion.h"
-#import <WeexSDK/WeexSDK.h>
 @interface UpdateChecker : UIView
 
 @property(nonatomic,strong) NSString*  url;
