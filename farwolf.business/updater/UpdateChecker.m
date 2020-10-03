@@ -12,11 +12,9 @@
 #import "UpdateJson.h"
 #import "UpdateDialogControl.h"
 #import "ZipDownloader.h"
-#import "URL.h"
 #import "JsVersion.h"
-#import <WeexSDK/WeexSDK.h>
 #import "ZipDownloaderControl.h"
-
+#import "URL.h"
 @implementation UpdateChecker
 
  

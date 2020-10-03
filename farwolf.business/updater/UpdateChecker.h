@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Version.h"
+#import "JsVersion.h"
 @interface UpdateChecker : UIView
 
 @property(nonatomic,strong) NSString*  url;
